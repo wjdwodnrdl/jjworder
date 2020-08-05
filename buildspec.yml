@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "jjworder"
-    _SERVICE_NAME: "order"
+    _PROJECT_NAME: "order"
+
 
 phases:
   install:
